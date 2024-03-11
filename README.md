@@ -12,29 +12,7 @@ yeskiss
 *   广告位招商
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://curl.qcloud.com/43JC4fAE">
-        <img src="https://upload-dianshi-1255598498.file.myqcloud.com/345x200-08ea7ec01febe3c7f600608e973fc44f43efec34.jpg" width="345px;" alt="1"/>
-      </a>
-      <br />
-      <a href="https://curl.qcloud.com/43JC4fAE">优惠套餐一</a>
-    </td>
-    <td align="center">
-      <a href="https://curl.qcloud.com/uis5UuWB">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/%E5%A5%88%E9%A3%9E.png" width="345px;" alt="2"/>
-      </a>
-      <br />
-      <a href="https://universalbus.cn/?s=SylOu1w6fa://curl.qcloud.com/uis5UuWB">奈飞合租</a>
-    </td>
-     <td align="center">
-      <a href="https://aws.amazon.com/cn/free/?sc_channel=seo&sc_campaign=video3">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/aws.png" width="345px;" alt="3"/>
-      </a>
-      <br />
-      <a href="https://aws.amazon.com/cn/free/?sc_channel=seo&sc_campaign=video3">免费云服务器</a>
-    </td>
-     </tr>
+ 
   <tr>
     <td align="center">
       <a href="https://my.frantech.ca/aff.php?aff=6147">
